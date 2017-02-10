@@ -1,0 +1,2 @@
+# UNI-AI-GeneticAlgorithms
+This is a university project which uses genetic algorithms to help an ant travel around a map to collect food. The algorithm generates a random first population and then runs the simulation muir_world.txt and sorts the population into fitness levels. Once sorted the most elite ants (highest fitness score) are used and placed into the next generation. The rest of that population is then created using two point crossover and mutation and the simulation is run up to 250 generations.
